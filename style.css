@@ -59,6 +59,12 @@ img {
     padding: 10px;
 }
 
+#project02 a:hover {
+    color: rgb(9, 139, 139); 
+    transform: scale(1.1); 
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
 #project02 {
     margin-top: 25px;
 }
